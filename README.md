@@ -1,8 +1,15 @@
 Hello,
 
-I'm Iris, I am here to expand my knowledge and build programs and scripts around C#, Visual Basic and Powershell. I mainly use Microsoft SQL Server and MySQL for DB storage. I also dabble in web development, using C#, PHP, JS, JQuery, React. I work in a Windows 10 IT education environment so making things that make my life easier is my goal.
+I'm Iris, my dayjob is in a medium sized Windows IT education, doing everything from systems administration, to hardware and networking. I fell in love with coding in this role, I started really getting into coding in 2020, first starting scripting in Powershell and Visual Basic and then moving on to my primary language C#, over the years I've developed various tools in both .NET Framework, .NET Core. I've built a handlefull of websites of various complexity using primarly PHP in these projects, with a JS or JQuery front end, depending on complexicty. I often use Microsoft SQL Server and MySQL for DB storage.
 
-I always appreciate constructive feedback. 
+My most notable projects include:
+
+- A plugin-free Flight Tracker software for use with a Virtal Airline for X-Plane and MSFS.
+- A Google workspace administration GUI. 
+- A helpdesk built with PHP and Fomantic-UI.
+- A small networking application to identify the port number of a IOT device on a switch from an IP address.   
+
+I'm always looking for different technologies to explore and learn about, new and old code is on this Github, although most is private if you notice something I could improve on, I always appreciate constructive feedback. 
 
 Have a good one!
 Iris.
