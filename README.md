@@ -4,9 +4,9 @@ I'm Iris, my day job consists of working in IT for a medium-sized Windows based 
 
 My most notable projects include:
 
-- A plugin-free flight tracking software for use with a Virtual Airline for X-Plane and MSFS.
-- A Google Workspace administration GUI. 
-- A helpdesk built with PHP and Fomantic-UI.
+- A plugin-free flight tracking software for use with a Virtual Airline for X-Plane 11/12 and MSFS.
+- A Google Workspace administration tool. 
+- A modern and simple helpdesk system built with PHP and Fomantic-UI.
 - A small networking application to resolve the port number, on a swtich, of an IOT device from its IP address.   
 
 I'm always looking for different technologies to explore and learn about, new and old code is on this Github, although most is private if you notice something I could improve on, I always appreciate constructive feedback. 
